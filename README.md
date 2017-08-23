@@ -10,11 +10,11 @@
 
    You now enter the following commands under command prompt.
 
-   echo "# CS 210, FA 17, Lab 1, [Your Name], [Your E-mail Address]" >> README.md
+   echo "# CS 210, FA 17, Lab 1, [Your Name], [Your E-mail Address]" >> Lab1.txt
 
    git init
 
-   git add README.md
+   git add Lab1.txt
 
    git commit -m "CS 210 Lab 1"
 
